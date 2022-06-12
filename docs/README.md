@@ -1,13 +1,24 @@
 # Pistachio Studio
 
-### :::::::: Upcoming Party ::::::::
+#### Neighborhood recording crew kngw, Japan.
 
+<a href="https://twitter.com/pstchstd"><i class="fa-brands fa-instagram"></i></a>
+<a href="https://twitter.com/pstchstd"><i class="fa-brands fa-twitter"></i></a>
+<a href="https://twitter.com/pstchstd"><i class="fa-brands fa-youtube"></i></a>
+<a href="https://twitter.com/pstchstd"><i class="fa-brands fa-soundcloud"></i></a>
+<a href="https://twitter.com/pstchstd"><i class="fa-brands fa-spotify"></i></a>
+<a href="https://twitter.com/pstchstd"><i class="fa-brands fa-discord"></i></a>
+<a href="https://twitter.com/pstchstd"><i class="fa-brands fa-github"></i></a>
+<a href="https://twitter.com/pstchstd"><i class="fa-brands fa-twitch"></i></a>
+<a href="https://twitter.com/pstchstd"><i class="fa-regular fa-envelope"></i></a>
+
+### Upcoming Party
 There is nothing going on. L(@_@;)  
 [Past Parties>>>](http://pistachiostudio.net/past)  
 
 If you want more information, follow us on Instagram or Twitter!!
 
-### :::::::::: News ::::::::::
+### News
 
 **Oct 25, 2021**  
 CBS' lyrics on [GitHub](https://github.com/pistachiostudio/lyrics)
@@ -30,6 +41,8 @@ Minato Tape on subscribe
 [Listen!>>>](https://linkco.re/73Q6rgVB)  
 
 Our discography on [Discogs>>>](https://www.discogs.com/label/1290260-Pistachio-Studio-2)
+
+### Members
 
 #### CBS & Chicken Is Nice
 
