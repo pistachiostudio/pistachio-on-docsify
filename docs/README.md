@@ -2,15 +2,15 @@
 
 #### Neighborhood recording crew kngw, Japan.
 
-<a href="https://twitter.com/pstchstd"><i class="fa-brands fa-instagram"></i></a>
+<a href="http://instagram.com/pistachiostudio"><i class="fa-brands fa-instagram"></i></a>
 <a href="https://twitter.com/pstchstd"><i class="fa-brands fa-twitter"></i></a>
-<a href="https://twitter.com/pstchstd"><i class="fa-brands fa-youtube"></i></a>
-<a href="https://twitter.com/pstchstd"><i class="fa-brands fa-soundcloud"></i></a>
-<a href="https://twitter.com/pstchstd"><i class="fa-brands fa-spotify"></i></a>
-<a href="https://twitter.com/pstchstd"><i class="fa-brands fa-discord"></i></a>
-<a href="https://twitter.com/pstchstd"><i class="fa-brands fa-github"></i></a>
-<a href="https://twitter.com/pstchstd"><i class="fa-brands fa-twitch"></i></a>
-<a href="https://twitter.com/pstchstd"><i class="fa-regular fa-envelope"></i></a>
+<a href="https://www.youtube.com/c/pistachiostudiokngw"><i class="fa-brands fa-youtube"></i></a>
+<a href="https://soundcloud.com/pistachio-studio"><i class="fa-brands fa-soundcloud"></i></a>
+<a href="https://open.spotify.com/user/2wf7ulo34ef46fu3awnq984wj?si=mm3fQfatR1OF2Kgr_uieGw"><i class="fa-brands fa-spotify"></i></a>
+<a href="https://discord.gg/pistachiogaming"><i class="fa-brands fa-discord"></i></a>
+<a href="https://github.com/pistachiostudio"><i class="fa-brands fa-github"></i></a>
+<a href="https://www.twitch.tv/pistachiostudio"><i class="fa-brands fa-twitch"></i></a>
+<a href="mailto:info@pistachiostudio.net"><i class="fa-regular fa-envelope"></i></a>
 
 ### Upcoming Party
 There is nothing going on. L(@_@;)  
