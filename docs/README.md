@@ -1,7 +1,7 @@
 ### Upcoming Party
 
 There is nothing going on. L(@_@;)  
-[Past Parties>>>](/pastgigs)  
+[Past Parties>>>](/pistachio-on-docsify/pastgigs)  
 
 If you want more information, follow us on Instagram or Twitter!!
 
